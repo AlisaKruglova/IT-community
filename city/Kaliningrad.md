@@ -3,6 +3,9 @@
 ## QA Калининград
 - [Telegram-чат](https://t.me/qa_kgd) - https://t.me/qa_kgd
 
+## PHP Kaliningrad
+- [Telegram-чат](https://t.me/php39) - https://t.me/php39
+
 ## Python Kaliningrad
 - [Telegram-чат](https://t.me/pythonkaliningrad) - https://t.me/pythonkaliningrad
 
